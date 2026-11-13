@@ -52,3 +52,8 @@ Sim, o projeto envolve dados pessoais de participantes (nome, e-mail, respostas 
 | **Entrevista semiestruturada** | Entender em profundidade como os alunos organizam e mantêm grupos de estudo, e onde o processo falha. | Sessão individual de 20-30 min, presencial ou por chamada de vídeo. Seguir o roteiro fixo, mas permitir perguntas de aprofundamento ("por quê?", "pode dar um exemplo?"). Gravar com autorização e transcrever depois. | Roteiro: 1) Como você organiza sessões de estudo hoje? 2) Conte sobre a última vez que um grupo de estudo não funcionou. 3) O que faria você usar um app específico para isso? |
 | **Questionário (Google Forms)** | Quantificar ferramentas usadas, frequência de grupos de estudo e principais frustrações, em uma amostra maior. | Divulgar o link em grupos de turma, aberto por 1 semana. Sem identificação pessoal, tempo estimado de resposta de 5 min. | `https://forms.google.com/exemplo-estuda-mais` *(placeholder — substituir pelo link real)* |
 | **Grupo focal** | Observar a discussão entre alunos sobre o que tornaria um grupo de estudo "bom", captando divergências de opinião difíceis de obter em entrevista individual. | Sessão única com 5-6 alunos, 45 min, mediada por um membro da equipe seguindo um roteiro de tópicos, com outro membro registrando anotações. | Roteiro de tópicos: hábitos atuais, ferramentas testadas e abandonadas, o que faria o grupo "durar" até a prova. |
+
+
+
+link do forms:  [Personas_Mapa_Empatia_VivaBem.docx](https://github.com/user-attachments/files/34775746/Personas_Mapa_Empatia_VivaBem.docx)
+

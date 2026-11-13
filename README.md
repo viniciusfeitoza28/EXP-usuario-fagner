@@ -4,8 +4,7 @@ Projeto apresentado ao Centro Universitário FEI, como requisito parcial para ap
 
 Integrantes:
 
-Vinicius Feitoza
-Adam Hammadeh
+Vinicius Feitoza e Adam Hammadeh
 
 Protótipo de alta fidelidade publicado em: https://front-light-93967800.figma.site/
 

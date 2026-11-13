@@ -1,3 +1,4 @@
+
 1) **Planejamento de Usabilidade (método DECIDE)**
 
 | D |  |
@@ -13,3 +14,7 @@
    2) Questionários  
    3) Tabela de Observação  
    4) Formulário de avaliação Heuristica.
+  
+
+
+[Planejamento_DECIDE_Instrumentos_VivaBem.docx](https://github.com/user-attachments/files/34776292/Planejamento_DECIDE_Instrumentos_VivaBem.docx)
